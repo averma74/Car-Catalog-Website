@@ -1,4 +1,4 @@
-# Responsive-Car-Catalog-Website
+# Car-Catalog-Website
 
 
 Car Catalog website allows the customers to get an easy access to choose from a wide range of cars
